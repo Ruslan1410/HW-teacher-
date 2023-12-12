@@ -1,0 +1,2 @@
+C:\Users\admin\Desktop\Обучение\HW(teacher)\HW(teacher)\HW(teacher)\obj\Debug\HW(teacher).csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Обучение\HW(teacher)\HW(teacher)\HW(teacher)\obj\Debug\HW(teacher).csproj.CoreCompileInputs.cache
