@@ -14,14 +14,20 @@ namespace HW_teacher_
         {
             string s = Console.ReadLine();
 
+            string text = "";
+
             for(int i = s.Length - 1; i >= 0; i--) 
             {
-                if(s[i]string() != " ")
-            {
-
-                s += s[i]string();
-
+               text += s[i];
             }
+
+            if(text == s)
+            {
+                Console.WriteLine("Yes")
+            }
+            else
+            {
+                Console.WriteLine("No");
             }
         }
     }
